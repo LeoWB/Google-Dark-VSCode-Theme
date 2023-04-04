@@ -1,9 +1,21 @@
 {
   "name": "google-dark",
   "displayName": "Google Dark",
-  "description": "A dark, google-colour inspired theme",
-  "version": "0.0.1",
+  "description": "A dark, Google-colour inspired theme",
+  "version": "1.0.0",
   "publisher": "LWB",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeoWB/Google-Dark-VSCode-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "google",
+    "colourful",
+    "bright",
+    "dark theme"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
