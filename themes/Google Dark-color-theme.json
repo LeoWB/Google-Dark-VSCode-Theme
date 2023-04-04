@@ -37,7 +37,7 @@
     "editorGroup.border": "#02070B30",
     "editorGroupHeader.tabsBackground": "#12191f",
     "editorGutter.addedBackground": "#256EFF50",
-    "editorGutter.deletedBackground": "#ff080060",
+    "editorGutter.deletedBackground": "#fa003f60",
     "editorGutter.modifiedBackground": "#8A98A1f0",
     "editorHoverWidget.background": "#12191f",
     "editorHoverWidget.border": "#F7F7F710",
@@ -210,7 +210,8 @@
         "constant.other.caps.python",
         "constant.numeric",
         "meta.fstring.python",
-        "constant.character.format.placeholder.other.python"
+        "constant.character.format.placeholder.other.python",
+        "meta.attribute.python"
       ],
       "settings": {
         "foreground": "#0bda51",

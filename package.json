@@ -3,6 +3,7 @@
   "displayName": "Google Dark",
   "description": "A dark, Google-colour inspired theme",
   "version": "1.0.0",
+  "icon": "icon.png",
   "publisher": "LWB",
   "repository": {
     "type": "git",
