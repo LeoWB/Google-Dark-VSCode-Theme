@@ -2,7 +2,7 @@
   "name": "google-dark",
   "displayName": "Google Dark",
   "description": "A dark, Google-colour inspired theme",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "icon": "./themes/images/icon.png",
   "publisher": "LWB",
   "repository": {
