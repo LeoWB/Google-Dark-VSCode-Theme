@@ -193,8 +193,8 @@
     "terminal.ansiYellow": "#256EFF",
     "terminalCursor.background": "#02070B",
     "terminalCursor.foreground": "#256EFF",
-    "textLink.activeForeground": "#E8E8E8",
-    "textLink.foreground": "#3B4247",
+    "textLink.activeForeground": "#4d88fe",
+    "textLink.foreground": "#256EFF",
     "titleBar.activeBackground": "#02070B",
     "titleBar.activeForeground": "#8a98a1",
     "titleBar.border": "#02070B60",
@@ -204,6 +204,30 @@
     "widget.shadow": "#02070B30"
   },
   "tokenColors": [
+    {
+      "name": "JS HTML CSS - Red",
+      "scope": [
+        "punctuation.definition.tag.begin.js",
+        "punctuation.definition.tag.end.js"
+      ],
+      "settings": {
+        "foreground": "#fa003f"
+      }
+    },
+    {
+      "name": "JS HTML CSS - Blue",
+      "scope": ["variable.other.object.js"],
+      "settings": {
+        "foreground": "#256eff"
+      }
+    },
+    {
+      "name": "JS HTML CSS - Orange",
+      "scope": ["support.class.component.js"],
+      "settings": {
+        "foreground": "#ff9f1c"
+      }
+    },
     {
       "name": "Punctuation Green",
       "scope": [
@@ -312,7 +336,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#fa003f7f"
+        "foreground": "#fa003f"
       }
     },
     {
