@@ -3,11 +3,11 @@
   "displayName": "Google Dark",
   "description": "A dark, Google-colour inspired theme",
   "version": "1.0.1",
-  "icon": "themes/images/icon.png",
+  "icon": "./themes/images/icon.png",
   "publisher": "LWB",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LeoWB/Google-Dark-VSCode-Theme"
+    "url": "https://github.com/LeoWB/Google-Dark-VSCode-Theme.git"
   },
   "keywords": [
     "theme",
