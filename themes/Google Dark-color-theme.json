@@ -1,5 +1,7 @@
 {
   "name": "Google Dark",
+  "type": "dark",
+  "$schema": "vscode://schemas/color-theme",
   "colors": {
     "activityBar.background": "#12191f",
     "activityBar.border": "#02070B60",
@@ -211,7 +213,8 @@
         "constant.numeric",
         "meta.fstring.python",
         "constant.character.format.placeholder.other.python",
-        "meta.attribute.python"
+        "meta.attribute.python",
+        "markup.heading.markdown"
       ],
       "settings": {
         "foreground": "#0bda51",
@@ -331,7 +334,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#fa003f7f"
+        "foreground": "#ff9f1c"
       }
     },
     {
@@ -369,7 +372,7 @@
         "punctuation.separator.parameters.python"
       ],
       "settings": {
-        "foreground": "#ff9f1c" //ff9f1c
+        "foreground": "#ff9f1c"
       }
     },
     {
@@ -503,7 +506,7 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#256eff"
       }
     },
     {
@@ -656,7 +659,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#0bda51"
       }
     },
     {
@@ -716,7 +719,7 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#ff9f1c"
       }
     },
     {
