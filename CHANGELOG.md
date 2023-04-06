@@ -6,7 +6,7 @@ All notable changes to the "google-dark" extension will be documented in this fi
 
 <br />
 
-## **[v1.0.2]**
+## **[v1.1.0]**
 
 ### ADDED
 
