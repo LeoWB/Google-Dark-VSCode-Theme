@@ -6,7 +6,7 @@ A simple, colourful, and bright palette designed to emulate the colours of Googl
 
 _React JS Example_  
 <image
-src="./themes/images/code_one.png"
+src="https://github.com/LeoWB/Google-Dark-VSCode-Theme/blob/main/themes/images/code_one.png"
 alt="image of the theme one"
 width="500"
 title="Google Dark Example ReactJS"> </image>
@@ -15,7 +15,7 @@ title="Google Dark Example ReactJS"> </image>
 
 _Python Example_  
 <image 
-src="./themes/images/code_two.png"
+src="https://github.com/LeoWB/Google-Dark-VSCode-Theme/blob/main/themes/images/code_two.png"
 alt="image of the theme two"
 height="610"
 title="Google Dark Example Python"></image>

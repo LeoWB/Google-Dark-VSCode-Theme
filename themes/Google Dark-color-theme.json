@@ -1,7 +1,5 @@
 {
   "name": "Google Dark",
-  "type": "dark",
-  "$schema": "vscode://schemas/color-theme",
   "colors": {
     "activityBar.background": "#12191f",
     "activityBar.border": "#02070B60",
