@@ -18,4 +18,5 @@ _Python Example_
 src="https://github.com/LeoWB/Google-Dark-VSCode-Theme/blob/main/themes/images/code_two.png"
 alt="image of the theme two"
 height="610"
+width="950"
 title="Google Dark Example Python"></image>
